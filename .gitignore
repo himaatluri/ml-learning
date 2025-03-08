@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+car_or_truck
+car.jpg
+truck.jpg
 # Distribution / packaging
 .Python
 build/
